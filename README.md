@@ -3,7 +3,7 @@ Here is a collection of customized Gulp files, based on what your project is usi
 
 I am working to compile this list, to help people who are looking for Gulp files that will handle specific things, without including things that are not needed. A lot of people find and copy Gulp files from elsewhere, and don't take the time to clean them up appropriately before use. Because of this, tasks are often included, which have no relevance to the project at hand.
 
-The Default Gulp File will work for most standard projects - HTML, Sass, and JavaScript - but I will be adding others as I find my own use for them. If you have a suggestion for a Gulp file you'd like to see posted here, please send me a Tweet!
+The Default Gulp File will work for most standard projects - HTML, Sass, and JavaScript - but I will be adding others as I find my own use for them. If you have a suggestion for a Gulp file you'd like to see posted here, please [send me a Tweet](https://twitter.com/thejessicafelts)!
 
 To run, build, and clean any of the Gulp files you see below, use the following:
 
@@ -12,6 +12,7 @@ To run, build, and clean any of the Gulp files you see below, use the following:
 + To Clean: `gulp clean`
 
 ## Default Gulp File
+##### [gulpfile-default.js](https://github.com/thejessicafelts/gulp-files/blob/master/gulpfile-default.js)
 This Gulp File is recommended for a standard project using HTML, Sass, and JavaScript. It includes Sass -> CSS compiling, file cleaning and minification, and image compression. This file includes livereload on port 8080 (which can be changed).
 
 ## Gulp File for projects using Handlebars.js (Coming Soon)
